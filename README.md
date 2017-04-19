@@ -2,7 +2,7 @@
 This tweaks the motd do be much cooler
 
 
-![alt tag](https://raw.githubusercontent.com/deathbybandaid/pimotd/master/image2.png)
+![alt tag](https://raw.githubusercontent.com/deathbybandaid/pimotd/master/image.png)
 
 
 ### Instructions
